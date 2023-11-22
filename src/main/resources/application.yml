@@ -13,8 +13,8 @@ spring:
       client:
         registration:
           google:
-            client-id: test_id
-            client-secret: test_secret
+            client-id: test_ids
+            client-secret: test_secrets
             scope:
               - email
               - profile
